@@ -43,6 +43,7 @@ header {
 
 .result-item:hover {
   transform: scale(1.1);
+  background: #eee;
 }
 
 h3 {
